@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="nikaaddon"
+version="1.0"
+displayName="Nika Gear 5 Expansion"
+description="Adds extended Gear 5 abilities, toon physics, and Epic Fight hooks"
+
+[[dependencies.nikaaddon]]
+modId="mineminenomi"
+mandatory=true
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"

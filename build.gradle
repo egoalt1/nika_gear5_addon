@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.rikka'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Mine Mine no Mi provided by user environment
+}
